@@ -2,8 +2,9 @@
 
 ## TODO
 
-- [ ] Make it deply (vercel)
-- [ ] Scaffold basic ui with mock data
+- [x] Make it deply (vercel)
+- [x] Scaffold basic ui with mock data
+- [x] Tidy up build process
 - [ ] Actually set up database (supabase)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ Clerk)
